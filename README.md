@@ -1,16 +1,13 @@
-### Hi there 👋
+#biografia
 
-<!--
-**elizandra2005/elizandra2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+oi me chamo elizandra
+meu email e elizandra.amaral.silva@escola.pr.gov.br
+corinthians
+estou enteresesada em fazer uma faculdade no futuro
+atualmente estudo no colegio orlando luiz zampronio 
+trabalho de baba 
+adoro inverno 
+musicas sertaneja 
+estudante 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
